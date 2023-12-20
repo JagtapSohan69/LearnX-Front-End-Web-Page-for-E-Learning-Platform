@@ -3,3 +3,6 @@ A Front-End Web design for the e-learning platform which goes by the name "Learn
 It contains an attractive UI with responsive design suitable for all devices.
 It uses media queries for the responsiveness. 
 The LearnX aims at giving the users a one stop solution for all the courses they need for their development.
+
+
+Preview: https://65832674caaaa73b0eca8f70--endearing-travesseiro-85fce8.netlify.app/
