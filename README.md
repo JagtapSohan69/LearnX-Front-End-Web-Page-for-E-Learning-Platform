@@ -5,4 +5,4 @@ It uses media queries for the responsiveness.
 The LearnX aims at giving the users a one stop solution for all the courses they need for their development.
 
 
-Preview: https://65832674caaaa73b0eca8f70--endearing-travesseiro-85fce8.netlify.app/
+Preview: https://6583287d8699a90008e1728f--endearing-travesseiro-85fce8.netlify.app/
